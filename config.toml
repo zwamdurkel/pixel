@@ -214,3 +214,9 @@ name = "sakamata_mask"
 file = "images/sakamatap.png"
 startx = 1387
 starty = 1064
+
+[[structure]]
+name = "chronoir"
+file = "images/CNR.png"
+startx = 1526
+starty = 1065
