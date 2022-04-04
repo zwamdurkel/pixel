@@ -3,19 +3,25 @@ ignore_colors = [
 	# [0, 0, 0, 255], # filter all black
 ]
 
-version = 12
+version = 14
 
 [[structure]]
 name = "flare"
-file = "images/Flare.png"
+file = "images/flarev2.png"
 startx = 1365
 starty = 869
 
-#[[structure]]
-#name = "lazulight"
-#file = "images/Lazulight.png"
-#startx = 1884
-#starty = 733
+[[structure]]
+name = "NijiEast"
+file = "images/nijisanji-east.png"
+startx = 1883
+starty = 734
+
+[[structure]]
+name = "ChibiWall"
+file = "images/ChibiWall.png"
+startx = 1454
+starty = 1063
 
 [[structure]]
 name = "suisei"
@@ -27,7 +33,7 @@ starty = 1074
 name = "niji_main"
 file = "images/Nijisanji logo.png"
 startx = 165
-starty = 721
+starty = 715
 
 #[[structure]]
 #name = "vshojo"
@@ -35,17 +41,23 @@ starty = 721
 #startx = 163
 #starty = 747
 
-#[[structure]]
-#name = "sanbaka + others"
-#file = "images/Sanbaka + Others.png"
-#startx = 240
-#starty = 737
+[[structure]]
+name = "Yagoo"
+file = "images/Yagoo.png"
+startx = 1332
+starty = 902
 
 [[structure]]
-name = "yagoo"
-file = "images/Yagoo3.png"
-startx = 1332
-starty = 900
+name = "Mascots Near Yagoo"
+file = "images/MascotsNearYagoo.png"
+startx = 1404
+starty = 902
+
+[[structure]]
+name = "Council"
+file = "images/Council.png"
+startx = 233
+starty = 686
 
 [[structure]]
 name = "main area"
@@ -61,9 +73,9 @@ starty = 758
 
 [[structure]]
 name = "fubuhappy"
-file = "images/fubuhappy.png"
-startx = 1333
-starty = 870
+file = "images/FubuHappy.png"
+startx = 1332
+starty = 869
 
 [[structure]]
 name = "shuba"
@@ -72,8 +84,14 @@ startx = 230
 starty = 782
 
 [[structure]]
+name = "Rushia"
+file = "images/rushia.png"
+startx = 1397
+starty = 1067
+
+[[structure]]
 name = "all_fubu_stuff"
-file = "images/all_fubu_stuff.png"
+file = "images/all_fubu_stuffv2.png"
 startx = 1332
 starty = 1042
 
@@ -81,12 +99,12 @@ starty = 1042
 name = "matsuribibi"
 file = "images/matsuri.png"
 startx = 1423
-starty = 1068
+starty = 1067
 
 [[structure]]
 name = "more-vshojo"
 file = "images/more-vshojo.png"
-startx = 1382
+startx = 1415
 starty = 1168
 
 [[structure]]
@@ -97,19 +115,102 @@ starty = 986
 
 [[structure]]
 name = "olaaaa"
-file = "images/Olaaaa.png"
-startx = 1332
+file = "images/olaaaa.png"
+startx = 1333
 starty = 1172
 
-
-
-
-
-
-
-# Add everything above this!!!
 [[structure]]
-name = "template_fixes.png"
-file = "images/template_fixes.png"
-startx = 0
-starty = 0
+name = "Watamelon"
+file = "images/Watame_final.png"
+startx = 1391
+starty = 1086
+
+[[structure]]
+name = "kaf_final"
+file = "images/kaf_final.png"
+startx = 1419
+starty = 1104
+
+[[structure]]
+name = "mouseyhug"
+file = "images/Mouseyhug.png"
+startx = 1403
+starty = 959
+
+[[structure]]
+name = "Niji South"
+file = "images/NijiSouth.png"
+startx = 1501
+starty = 1064
+
+[[structure]]
+name = "Taskbar"
+file = "images/Taskbar.png"
+startx = 1029
+starty = 1961
+
+# [[structure]]
+#name = "anikimo_suzume_sora"
+#file = "images/ankimoSuzumeSoraPixels.png"
+#startx = 1327
+#starty = 1110
+
+[[structure]]
+name = "Suiohno"
+file = "images/suiohno.png"
+startx = 219
+starty = 716
+
+[[structure]]
+name = "Nekko"
+file = "images/Nekko.png"
+startx = 247
+starty = 794
+
+[[structure]]
+name = "kobowave"
+file = "images/kobo.png"
+startx = 1892
+starty = 697
+
+[[structure]]
+name = "migo"
+file = "images/migo.png"
+startx = 1941
+starty = 700
+
+[[structure]]
+name = "MarineAhoy"
+file = "images/MarineAhoy.png"
+startx = 1381
+starty = 1044
+
+[[structure]]
+name = "mumeisuisei"
+file = "images/mumeisuisei.png"
+startx = 220
+starty = 757
+
+[[structure]]
+name = "takodachi"
+file = "images/takodachi.png"
+startx = 204
+starty = 768
+
+[[structure]]
+name = "watasheep"
+file = "images/watasheep.png"
+startx = 1289
+starty = 1063
+
+[[structure]]
+name = "nanocrown"
+file = "images/nanora.png"
+startx = 1353
+starty = 1111
+
+[[structure]]
+name = "sakamata_mask"
+file = "images/sakamatap.png"
+startx = 1387
+starty = 1064
