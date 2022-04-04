@@ -192,6 +192,12 @@ startx = 220
 starty = 757
 
 [[structure]]
+name = "takodachi"
+file = "images/takodachi.png"
+startx = 204
+starty = 768
+
+[[structure]]
 name = "watasheep"
 file = "images/watasheep.png"
 startx = 1289
