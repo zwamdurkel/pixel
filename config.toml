@@ -177,7 +177,7 @@ starty = 697
 name = "migo"
 file = "images/migo.png"
 startx = 1941
-starty = 700
+starty = 697
 
 [[structure]]
 name = "MarineAhoy"
